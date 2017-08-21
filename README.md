@@ -13,5 +13,8 @@ This ☒CHIP forms part of the interface modules and is equipped with USB power 
 ## Windows Driver
 - If the IP01 is not recognised on your windows PC please intall the file provided under [drivers](https://github.com/xinabox/xIP01/tree/master/drivers) or simply click the following [link](https://github.com/xinabox/xIP01/blob/master/drivers/FTDI%20Driver%20(CDM_v2.12.00_WHQL_Certified).exe) and install once download has completed.
 
+# Windows FTDI FT232R USB UART Driver
+For a more detailed installation guide please visit the following [link](http://www.usb-drivers.org/ft232r-usb-uart-driver.html).
+
 
 
