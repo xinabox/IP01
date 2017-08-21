@@ -10,7 +10,7 @@ This ☒CHIP forms part of the interface modules and is equipped with USB power 
 - RGB LED (fixed configuration)
 - Based on FT232R
 
-## Windows Driver
+## Windows Driver FT232R USB UART Driver
 - If the IP01 is not recognised on your windows PC please install the lastest driver [release](https://github.com/xinabox/xIP01/releases/latest).
 - For a more detailed installation guide please visit the following [link](http://www.usb-drivers.org/ft232r-usb-uart-driver.html).
 
