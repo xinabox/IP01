@@ -9,7 +9,6 @@ This ☒CHIP forms part of the interface modules and is equipped with USB power 
 
 ## Key Features
 - USB A connector
-- Can be used to program core ☒CHIPs CW01, CR01 and CC01
 - RGB LED (fixed configuration)
 - Based on FT232R
 
