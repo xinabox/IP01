@@ -1,5 +1,5 @@
 # ☒CHIP IP01
-<img src="extras/IP01_V0.4.12.jpg" width="35%" height="auto" align="right">
+<img src="extras/IP01-V1.0.4.JPG" width="35%" height="auto" align="right">
 Basic Progammer module based on FTDI FT232.
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/IP01/).
